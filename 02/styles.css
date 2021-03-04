@@ -1,0 +1,21 @@
+p{
+    line-height: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+a{
+    font-style: oblique;
+    color: blue;
+}
+
+h1,h2,h3{
+    color: maroon;
+}
+
+table{
+    border: mediumaquamarine solid;
+    width: 80%;
+    position: absolute;
+    margin: 10px;
+}

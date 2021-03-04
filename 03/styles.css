@@ -1,0 +1,45 @@
+main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+    width: 1100px;
+}
+
+h1{
+    text-align: center;
+}
+
+.h2Borde1{
+    border-bottom: 1px solid #87aff6;
+}
+
+.h2Borde2{
+    border-bottom: 1px solid #ea6584f6;
+}
+
+p{
+    font-size: 16px;
+    line-height: 30px;
+    padding: 6px;
+}
+
+.p1{
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #0e0e0e;
+}
+
+.pPares{
+    background-color: #d7d7d7;
+}
+
+.pImpares{
+    background-color: #f6f6f6;
+}
+
+a{
+    color: #f00;
+}
+
+.aWiki{
+    color: #00f
+}
