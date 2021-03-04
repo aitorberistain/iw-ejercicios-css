@@ -1,0 +1,21 @@
+.rside {
+   float: right;
+   margin-left: 14px;
+}
+.lside {
+    float: left;
+    margin-right: 14px;
+}
+div {
+	width: 50%;
+    margin-bottom: 40px;
+}
+
+.pBorde{
+    border: solid black;
+    padding: 8px;
+    width: 200px;
+}
+
+
+
